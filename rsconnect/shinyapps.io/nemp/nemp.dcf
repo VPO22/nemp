@@ -1,0 +1,14 @@
+name: nemp
+title: nemp
+username:
+account: nemp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6430516
+bundleId: 5978758
+url: https://nemp.shinyapps.io/nemp/
+when: 1654419391.25062
+lastSyncTime: 1654419391.25062
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: appJ1.R|manuals/design.indd|manuals/theEMP.indb
