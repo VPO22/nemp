@@ -409,7 +409,7 @@ ui = navbarPage(
                     ),
              column(width = 3,
                     tags$h6("Why Dashboard?"),
-                    tags$p("If you have ever used dashboard before, welcome! The Environmental Master Plan for Strategic Interventions is rendered in a data driven dashboard that allows you to easily interact with and query environmental information of your interest. <br> This dashboard enables sharing information to anyone using web browser and adaptive that allows quick update of environmental information.")
+                    tags$p("If you have ever used dashboard before, welcome! The Environmental Master Plan for Strategic Interventions is rendered in a data driven dashboard that allows you to easily interact with and query environmental information of your interest. This dashboard enables sharing information to anyone using web browser and adaptive that allows quick update of environmental information.")
                     )
            ),
            ),
